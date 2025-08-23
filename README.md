@@ -2,6 +2,7 @@
 
 This repository contains small projects and practice tasks related to my journey in Information Systems and IT support. It includes:
 
+- AI Chatbots 
 - 📊 Excel dashboards and reports
 - 🔍 SQL queries for data analysis
 - 🐍 Python scripts for data cleaning and visualization
