@@ -74,7 +74,7 @@ You should see something like:
 
 Start chatting! Type messages in the input box, press **Enter**, and
 MiniBot will reply.
-![Mini Bot running in Web](images/minibot.png)
+![Mini Bot running in Web](static/minibot.png)
 
 ------------------------------------------------------------------------
 
