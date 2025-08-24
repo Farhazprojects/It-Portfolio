@@ -1,4 +1,22 @@
-# AI minibot is a  random mini-project of Farhaz Khondoker. 
+# MiniBot – A Simple AI Chatbot with Web Interface by Farhaz Khondoker.
+
+MiniBot is a lightweight AI chatbot built using *Python* and *Flask*. It allows users to interact with a simple conversational bot through a clean web interface, similar to basic versions of AI assistants.
+
+This project demonstrates how to:
+- Build a chatbot using a *keyword-matching logic* (with memory for session-based interactions).
+- Create a *Flask web server* to handle chatbot requests.
+- Design a minimal *frontend interface (HTML, CSS, JavaScript)* for chat-based interactions.
+- Run the project locally using *Command Prompt (CMD)* with a step-by-step setup guide.
+
+The bot can answer predefined questions, respond to greetings, and handle unknown inputs gracefully. It’s a great starting point for beginners exploring *AI concepts, Flask development, or chatbot building*.
+
+---
+
+## Features
+- Lightweight AI chatbot (rule-based, with basic memory)
+- User-friendly web interface with real-time chat
+- Easy to set up and run via CMD
+- Modular structure for easy expansion (e.g., integrate with NLP later)
 Here are the steps to run and execute the program -
 # MiniBot -- Run via Command Prompt (Windows)
 
