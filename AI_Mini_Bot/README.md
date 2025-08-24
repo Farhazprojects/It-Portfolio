@@ -1,4 +1,4 @@
-AI minibot is a  random mini-project of Farhaz Khondoker. Here are the steps to run and execute the program -
+# AI minibot is a  random mini-project of Farhaz Khondoker. Here are the steps to run and execute the program -
 # MiniBot -- Run via Command Prompt (Windows)
 
 This guide explains how to set up and run the **MiniBot** project
