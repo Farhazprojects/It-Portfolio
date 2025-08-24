@@ -128,5 +128,5 @@ deactivate
 
 ------------------------------------------------------------------------
 
-Your **MiniBot** is now ready to chat locally --- like a mini ChatGPT!
+Your **MiniBot** is now ready to chat locally!
 
