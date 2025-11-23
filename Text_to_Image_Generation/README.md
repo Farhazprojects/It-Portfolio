@@ -16,9 +16,22 @@ Users type their imagination, adjust settings, and instantly see results in a cl
 ##  Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/imagination-to-image.git
-cd imagination-to-image
+git clone https://github.com/Farhazprojects/It-Portfolio/tree/main/Text_to_Image_Generation.git
+cd Text_to_Image_Generation
 pip install -r requirements.txt
 python app.py
+```
 
+---
 
+### 5. Push to GitHub
+From your terminal:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit: Text_to_Image_Generation project"
+git branch -M main
+git remote add origin https://github.com/Farhazprojects/It-Portfolio/tree/main/Text_to_Image_Generation.git
+git push -u origin main
+```
