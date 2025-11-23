@@ -5,7 +5,7 @@ Users type their imagination, adjust settings, and instantly see results in a cl
 
 ---
 # Demo
-[Demo](
+[Demo](../images/Image_Gen.png)
 ##  Features
 - **Copilot‑style UI**: Simple, guided interface with textboxes and sliders.
 - **Exact prompt fidelity**: Whatever the user types is passed directly to the model.
