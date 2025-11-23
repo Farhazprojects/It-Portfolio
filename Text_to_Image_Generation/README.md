@@ -13,6 +13,12 @@ Users type their imagination, adjust settings, and instantly see results in a cl
 - **Colab‑ready**: Works seamlessly in Google Colab for learners with low‑spec PCs.
 
 ---
+##  Installation
 
+```bash
+git clone https://github.com/YOUR_USERNAME/imagination-to-image.git
+cd imagination-to-image
+pip install -r requirements.txt
+python app.py
 
 
