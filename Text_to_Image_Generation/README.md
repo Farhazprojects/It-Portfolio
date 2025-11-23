@@ -4,7 +4,8 @@ An interactive AI app that transforms text prompts into vivid images using Stabl
 Users type their imagination, adjust settings, and instantly see results in a clean Copilot‑style interface.
 
 ---
-
+# Demo
+[Demo](
 ##  Features
 - **Copilot‑style UI**: Simple, guided interface with textboxes and sliders.
 - **Exact prompt fidelity**: Whatever the user types is passed directly to the model.
